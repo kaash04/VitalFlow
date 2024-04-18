@@ -1,0 +1,25 @@
+#frontend
+# dependencies
+/blood/node_modules/
+/blood/.pnp
+/blood.pnp.js
+
+# testing
+/blood/coverage
+
+# production
+/blood/build
+
+# misc
+/blood/.DS_Store
+/blood/.env.local
+/blood/.env.development.local
+/blood/.env.test.local
+/blood/.env.production.local
+
+/blood/npm-debug.log*
+/blood/yarn-debug.log*
+/blood/yarn-error.log*
+
+#backend
+./backend/node_modules/
